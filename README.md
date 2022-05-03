@@ -1,7 +1,6 @@
 
-![Alt text](C:\Users\Dell\OneDrive\Belgeler\GitHub\kodluyoruzilkrepo\imgF.PNG "Title")
 
-C:\Users\Dell\OneDrive\Belgeler\GitHub\kodluyoruzilkrepo\README.md
+![resim ](relative\path\to\imgF.png)
 # Kodluyoruz Ilk Repo 
 * bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front end eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası,bir adet indx.html barındırıyor.
 
