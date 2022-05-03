@@ -1,6 +1,6 @@
 
 
-![resim ](relative\path\to\imgF.png)
+![resim ](C:\Users\Dell\OneDrive\Belgeler\GitHub\kodluyoruzilkrepo\figures\imgFHm.PNG)
 # Kodluyoruz Ilk Repo 
 * bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front end eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası,bir adet indx.html barındırıyor.
 
