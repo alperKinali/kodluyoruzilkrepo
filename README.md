@@ -5,5 +5,19 @@
 # Installation 
 * öncelikle projeyi klonlayın
 ```
-https://github.com/alperKinali/kodluyoruzilkrepo.git
+git clone https://github.com/alperKinali/kodluyoruzilkrepo.git
 ```
+
+# Usage 
+* projeyi cloneladıktan sonra Visual Studio Code programında açınız 
+
+```
+cdkodluyoruzilkrepo
+code . 
+```
+
+# Contributing
+* Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+# License 
+[MIT](https://choosealicense.com/licenses/mit/)
