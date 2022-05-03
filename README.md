@@ -1,5 +1,5 @@
 
-![Kod resmi](imgF.png)
+![Alt text](relative/path/to/imgF.PNG?raw=true "Title")
 
 
 # Kodluyoruz Ilk Repo 
