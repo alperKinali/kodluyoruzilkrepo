@@ -24,3 +24,4 @@ code .
 
 # License 
 [MIT](https://choosealicense.com/licenses/mit/)
+[Patika](https://app.patika.dev/Alperkinali)
